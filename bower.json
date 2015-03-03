@@ -1,0 +1,14 @@
+{
+    "name": "ckeditor-angularjs",
+    "version": "0.1",
+    "main": "ckeditor-angularjs.js",
+    "dependencies": {
+        "angular": "*"
+    },
+    "devDependencies": {
+        "jquery": "~2.0.3",
+        "ckeditor": "~4",
+        "angular-sanitize": "*"
+
+    }
+}
