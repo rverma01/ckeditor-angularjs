@@ -3,12 +3,9 @@
     "version": "0.1",
     "main": "ckeditor-angularjs.js",
     "dependencies": {
-        "angular": "*"
-    },
-    "devDependencies": {
+        "angular": "*",
         "jquery": "~2.0.3",
         "ckeditor": "~4",
         "angular-sanitize": "*"
-
     }
 }
